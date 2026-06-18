@@ -9,8 +9,8 @@ Howard et al. 1972, Payzant et al. 1972, Feshenfeld 1971<br>
 (1)  O<sub>2</sub><sup>+</sup> + H<sub>2</sub>O + M  -> O<sub>2</sub><sup>+</sup>.H<sub>2</sub>O + M<br>
 (2)  O<sub>2</sub><sup>+</sup> +  O<sub>2</sub> + M  <-> O<sub>4</sub><sup>+</sup> + M<br>
 (3)  O<sub>4</sub><sup>+</sup> + H<sub>2</sub>O      -> O<sub>2</sub><sup>+</sup>.H<sub>2</sub>O + O<sub>2</sub><br>
-(4a) O<sub>2</sub><sup>+</sup>.H<sub>2</sub>O + H2O  -> H<sub>3</sub>O<sup>+</sup>.OH + O<sub>2</sub><br>
+(4a) O<sub>2</sub><sup>+</sup>.H<sub>2</sub>O + H<sub>2</sub>O  -> H<sub>3</sub>O<sup>+</sup>.OH + O<sub>2</sub><br>
 (4b)                -> H<sub>3</sub>O<sup>+</sup> + OH + O2<br>
-(5)  H3O+.OH + H2O  -> H3O+.H2O + OH<br>
+(5)  H<sub>3</sub>O<sup>+</sup>.OH + H<sub>2</sub>O  -> H<sub>3</sub>O<sup>+</sup>.H<sub>2</sub>O + OH<br>
 
 ---------------------------------------------------------------------

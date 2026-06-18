@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------
 
-<p>Equations: T.D. Thornberry et al. 2013 & Howard et al. 1972</p>
+<p>Equations -  T.D. Thornberry et al. 2013 & Howard et al. 1972</p>
 <pre>
 (1)  O<sub>2</sub><sup>+</sup> + H<sub>2</sub>O + M   -> O<sub>2</sub><sup>+</sup>&#8226;H<sub>2</sub>O + M<br>
 (2)  O<sub>2</sub><sup>+</sup> +  O<sub>2</sub> + M  <-> O<sub>4</sub><sup>+</sup> + M<br>

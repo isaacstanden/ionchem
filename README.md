@@ -14,3 +14,9 @@ Howard et al. 1972, Payzant et al. 1972, Feshenfeld 1971<br>
 (5)  H<sub>3</sub>O<sup>+</sup>&#8226;OH + H<sub>2</sub>O             -> H<sub>3</sub>O<sup>+</sup>&#8226;H<sub>2</sub>O + OH<br>
 
 ---------------------------------------------------------------------
+
+
+<div style="font-family: monospace; white-space: pre;">
+Item A....$10.00
+Item B.....$5.50
+</div>

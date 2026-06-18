@@ -1,0 +1,16 @@
+%% 2026-06 - H2-CIMS ion chemistry simulation - Isaac Standen
+
+% Equations: T.D. Thornberry et al. 2013 & Howard et al. 1972
+% Rate constants:
+% Howard et al. 1972, Payzant et al. 1972, Feshenfeld 1971
+
+% --------------------------------------------------------------
+
+% (1)  O2+ + H2O + M  -> O2+.H2O + M
+% (2)  O2+ + O2 + M  <-> O4+ + M
+% (3)  O4+ + H2O      -> O2+.H2O + O2
+% (4a) O2+.H2O + H2O  -> H3O+.OH + O2
+% (4b)                -> H3O+ + OH + O2
+% (5)  H3O+.OH + H2O  -> H3O+.H2O + OH
+
+% --------------------------------------------------------------

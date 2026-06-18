@@ -1,5 +1,4 @@
 2026-06 - H2-CIMS ion chemistry simulation in MATLAB<br>
-Isaac Standen<br>
 
 Equations: T.D. Thornberry et al. 2013 & Howard et al. 1972<br>
 Rate constants:<br>

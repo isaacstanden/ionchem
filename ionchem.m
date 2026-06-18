@@ -1,4 +1,4 @@
-%% 2026-06 - H2-CIMS ion chemistry simulation - Isaac Standen
+% 2026-06 - H2-CIMS ion chemistry simulation - Isaac Standen
 
 % Equations: T.D. Thornberry et al. 2013 & Howard et al. 1972
 % Rate constants:
@@ -16,7 +16,7 @@
 % --------------------------------------------------------------
 
 clc; clear all;
-%% Initial conditions
+% Initial conditions
 
 % Rate constants (molec. implicit)
 k1   = 2.8e-28;   % cm^6/s
@@ -48,7 +48,7 @@ LtoCC      = 1e-3;
 o2p_source = 1e7/f_quads *LtoCC; % O2+ from source tube
 % Sim. uses one pulse of O2+ at beginning of simulation (not replensished)
 
-%% Initialising ion vectors
+% Initialising ion vectors
 
 o2plus = nan(nt, 1); % O2+
 o2plus(1) = o2p_source;
@@ -68,7 +68,7 @@ h3o_h2o(1) = 0;
 h3o = nan(nt, 1); % H3O+
 h3o(1) = 0;
 
-%% Model 1 - Euler BWD - with O4+ reverse reaction
+% Model 1 - Euler BWD - with O4+ reverse reaction
 
 for i=2:1:nt
     % O2+
@@ -91,7 +91,7 @@ end
 
 save("ionchem.mat");
 
-%% Graphing - Model 1
+% Graphing - Model 1
 
 %clc; load("ionchem.mat");
 
@@ -124,7 +124,7 @@ title(["H_3O^+"])
 legend("Total declustering", "50% declustering", "location", "NorthEast")
 grid on; box on; hold off;
 
-%% Model 2 - Euler BWD - without O4+ reverse reaction
+% Model 2 - Euler BWD - without O4+ reverse reaction
 
 for i=2:1:nt
     % O2+
@@ -143,7 +143,7 @@ for i=2:1:nt
     h3o(i) = h3o(i-1)+(k4b*o2_h2o(i-1)*h2o)*dt;
 end
 
-%% Graphing - Model 2
+% Graphing - Model 2
 
 % Plots
 figure(1)
@@ -173,7 +173,7 @@ title(["H_3O^+"])
 legend("Total declustering", "50% declustering", "location", "NorthEast")
 grid on; box on; hold off;
 
-%% Misc.
+% Misc.
 
 % V_beta     = 0.067e06;       % Beta ptcl voltage, V
 % V_collison = 60;             % Collision voltage, V

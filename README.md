@@ -6,7 +6,7 @@ Howard et al. 1972, Payzant et al. 1972, Feshenfeld 1971<br>
 
 ---------------------------------------------------------------------
 
-(1)  O<sub>2<\sub><sup>+<\sup> + H_2O + M  -> O2+.H2O + M<br>
+(1)  O<sub>2</sub><sup>+</sup> + H<sub>2</sub>O + M  -> O<sub>2</sub><sup>+</sup>.H<sub>2</sub>O + M<br>
 (2)  O2+ + O2 + M  <-> O4+ + M<br>
 (3)  O4+ + H2O      -> O2+.H2O + O2<br>
 (4a) O2+.H2O + H2O  -> H3O+.OH + O2<br>

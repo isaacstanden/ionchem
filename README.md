@@ -1,5 +1,5 @@
 2026-06 - H2-CIMS ion chemistry simulation in MATLAB<br>
-investigates production of hydronium (H<sub>3</sub>O<sup>+</sup>) ion in source region of chemical ionisation mass spectrometer.
+<p>Investigates production of hydronium (H<sub>3</sub>O<sup>+</sup>) ions in source region of chemical ionisation mass spectrometer.</p>
 ---------------------------------------------------------------------
 Equations: T.D. Thornberry et al. 2013 & Howard et al. 1972<br
 <pre>
